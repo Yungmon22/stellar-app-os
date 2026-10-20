@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1652-integrate-a-field-team-mobile-app-for-offline",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1652-integrate-a-field-team-mobile-app-for-offline": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1652-integrate-a-field-team-mobile-app-for-offline",
+    "origin"
+  ]
+}
